@@ -212,7 +212,7 @@ Restart the gateway.
 
 ---
 
-## Headless servers
+## Headless servers (Ubuntu / Linux)
 
 Chrome extensions typically need a display context.
 
@@ -229,14 +229,3 @@ Also consider setting:
 ```
 
 ---
-
-## Disclaimer
-
-This project is an **unofficial** configuration guide and is not affiliated with OpenClaw or CapSolver.
-Use only in compliant, authorized workflows.
-
-```
-
-If you want, tell me the final repo name you chose (e.g., `openclaw-capsolver`, `openclaw-captcha-solver`, etc.) and I’ll tweak the title + wording so it matches the branding perfectly.
-::contentReference[oaicite:0]{index=0}
-```
