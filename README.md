@@ -2,12 +2,6 @@
 Zero-code guide to load the CapSolver browser extension into OpenClaw’s Chromium session so your agent can complete authorized web flows without getting stuck on CAPTCHA prompts.
 
 
-### Small GitHub repo description (for the “About” box)
-
-**Zero-code guide to load the CapSolver browser extension into OpenClaw’s Chromium session so your agent can complete authorized web flows without getting stuck on CAPTCHA prompts.**
-
----
-
 # Solve CAPTCHAs in OpenClaw (CapSolver Extension)
 
 
@@ -62,7 +56,7 @@ If your extension doesn’t load, switch to:
 
 ---
 
-## Installation
+## Installation (Ubuntu / Linux)
 
 ### 1) Install CapSolver Extension (required)
 
