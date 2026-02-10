@@ -3,8 +3,8 @@ Zero-code guide to load the CapSolver browser extension into OpenClaw’s Chromi
 
 
 # Solve CAPTCHAs in OpenClaw (CapSolver Extension)
-
-
+https://capsolver.com/
+https://github.com/openclaw/openclaw
 
 Enable automatic CAPTCHA handling in **OpenClaw** by loading the **CapSolver browser extension** into the agent’s Chromium browser profile.
 
